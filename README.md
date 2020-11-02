@@ -7,6 +7,8 @@ Aplikasi Nonton Film Sub Indo tanpa iklan mengganggu pada saat streaming movie
 
 WARNING! NOT SUPPORTED FOR ANDROID 10++
 
+![Image](https://a.fsdn.com/con/app/proj/flix21/screenshots/Screenshot_20201102-151105.png/max/max/1)
+
 [DOWNLOAD APK](https://drive.google.com/uc?export=download&id=18VX0Etl00H8eek4wJkXUOD8pA3n2njrs)
 
 aplikasi nonton film sub indo terbaik
