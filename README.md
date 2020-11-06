@@ -5,8 +5,6 @@ Aplikasi Nonton Film Sub Indo tanpa iklan mengganggu pada saat streaming movie
 - Auto Block ads popup gdrive, fembed, etc
 - Easy to use
 
-WARNING! NOT SUPPORTED FOR ANDROID 10++
-
 ![Image](https://i.ibb.co/QfRnGT2/1.png)
 
 [DOWNLOAD APK](https://drive.google.com/uc?export=download&id=18VX0Etl00H8eek4wJkXUOD8pA3n2njrs)
